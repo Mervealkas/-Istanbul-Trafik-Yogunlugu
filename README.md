@@ -44,6 +44,8 @@ Bu proje, veri analizi ve görselleştirme becerilerimi sergilemek; aynı zamand
 - Etkili görselleştirme teknikleri
 - GitHub üzerinde profesyonel proje sunumu
 
+  NOT: Bu verinin sadece ilk hafta değil ocak 2025 analizini de yaptım ancak github alan sınırı dolayısıyla buraya yükleyemiyorum,ilgilenenlere colab linki iletebilirim.
+
 ## 📬 İletişim
 
 Her türlü geri bildirim ve iş birliği için benimle iletişime geçebilirsiniz:
